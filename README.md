@@ -7,6 +7,7 @@ Libraries used:
         2- Numpy
         3- Pandas
         4- scikit-learn
+        
 Steps to complete project :
         1- Download stock prices from Yahoo finance
         2- Explore the data
